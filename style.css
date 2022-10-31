@@ -57,7 +57,7 @@
 }
 
 .task-list__input-text,
-.task-list__input-checkbox,
+.task-list__input-checkbox, .add-task__input,
 .task-list__btn-edit,
 .task-list__btn-delete,
 .add-task__btn {
